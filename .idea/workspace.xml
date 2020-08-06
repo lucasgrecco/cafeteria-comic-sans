@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6d086778-71e3-4d6a-8c3e-dbdf8425c6cc" name="Default Changelist" comment="" />
+    <list default="true" id="6d086778-71e3-4d6a-8c3e-dbdf8425c6cc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,17 +42,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596675743769</updated>
-      <workItem from="1596675746890" duration="1394000" />
+      <workItem from="1596675746890" duration="1823000" />
     </task>
+    <task id="LOCAL-00001" summary="The best coffee shop in the world">
+      <created>1596677299834</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596677299834</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The best coffee shop in the world" />
+    <option name="LAST_COMMIT_MESSAGE" value="The best coffee shop in the world" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="464" y="87" width="987" height="938" key="CommitChangelistDialog2" timestamp="1596677299693">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="464" y="87" width="987" height="938" key="CommitChangelistDialog2/0.27.1920.1052@0.27.1920.1052" timestamp="1596677299693" />
+    <state x="558" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2" timestamp="1596677302658">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="558" y="285" width="800" height="543" key="Vcs.Push.Dialog.v2/0.27.1920.1052@0.27.1920.1052" timestamp="1596677302658" />
     <state x="738" y="207" width="440" height="698" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1596677073628">
       <screen x="0" y="27" width="1920" height="1052" />
     </state>
     <state x="738" y="207" width="440" height="698" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.27.1920.1052@0.27.1920.1052" timestamp="1596677073628" />
+    <state x="767" y="461" width="381" height="191" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1596677245122">
+      <screen x="0" y="27" width="1920" height="1052" />
+    </state>
+    <state x="767" y="461" width="381" height="191" key="git4idea.remote.GitConfigureRemotesDialog/0.27.1920.1052@0.27.1920.1052" timestamp="1596677245122" />
   </component>
 </project>
